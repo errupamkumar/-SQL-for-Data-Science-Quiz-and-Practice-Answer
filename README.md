@@ -1,6 +1,6 @@
 # -SQL-for-Data-Science-Quiz-and-Practice-Answer
 
-
+                   ###################--------------- WEEK - 1 ----------------------##########################################  
 1.
 Question 1
 To prepare for the graded coding quiz, you will be asked to execute a query, read the results, and select the correct answer you found in the results. This question is for you to practice executing queries. I have provided you the script for this query, a simple select statement. Think of this as a sandbox for you to practice. As you practice executing queries, take time to read the results in order to prepare for the quiz and get comfortable writing a basic select statement. 
